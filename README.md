@@ -2,6 +2,8 @@
 
 A module to parse bus stations from pdf.
 
+![](http://i.imgur.com/5YrFFRs.png)
+
 ## Getting Started
 Install the module with: `npm install stops`
 
