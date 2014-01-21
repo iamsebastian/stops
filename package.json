@@ -1,0 +1,30 @@
+{
+  "name": "stops",
+  "version": "0.0.0",
+  "main": "lib/stops.js",
+  "description": "A module to parse bus stations from pdf.",
+  "homepage": "stops.blei.in",
+  "bugs": "https://github.com/iamsebastian/stops/issues",
+  "author": {
+    "name": "Sebastian Blei",
+    "email": "s@blei.in",
+    "url": "blei.in"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamsebastian/stops"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.7.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0",
+    "load-grunt-tasks": "~0.2.0",
+    "time-grunt": "~0.2.0",
+    "jshint-stylish": "~0.1.3"
+  }
+}

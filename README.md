@@ -1,6 +1,26 @@
-Stops.
-=====
+# stops [![Build Status](https://secure.travis-ci.org/iamsebastian/stops.png?branch=master)](http://travis-ci.org/iamsebastian/stops)
 
-Parse and deliver bus stations for Nordhausen.
+A module to parse bus stations from pdf.
 
-![](http://i.imgur.com/5YrFFRs.png)
+## Getting Started
+Install the module with: `npm install stops`
+
+```javascript
+var stops = require('stops');
+stops.awesome(); // "awesome"
+```
+
+## Documentation
+_(Coming soon)_
+
+## Examples
+_(Coming soon)_
+
+## Contributing
+In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
+
+## Release History
+_(Nothing yet)_
+
+## License
+Copyright (c) 2014 Sebastian Blei. Licensed under the MIT license.
