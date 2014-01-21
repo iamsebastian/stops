@@ -1,4 +1,4 @@
-stops
+Stops.
 =====
 
 Parse and deliver bus stations for Nordhausen.
