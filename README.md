@@ -1,7 +1,5 @@
 # Stops.
 
-[![Build Status](https://secure.travis-ci.org/iamsebastian/stops.png?branch=master)](http://travis-ci.org/iamsebastian/stops)
-
 A module to parse bus stations from pdf.
 
 ![](http://i.imgur.com/5YrFFRs.png)
